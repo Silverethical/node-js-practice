@@ -1,0 +1,19 @@
+{
+  "name": "03-process-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon -e js,mjs,json,scss,html main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.7",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
